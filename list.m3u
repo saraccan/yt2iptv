@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Halk TV HD
-https://manifest.googlevideo.com/api/manifest/dash/expire/1681437963/ei/q2A4ZP2RCY7ihga_6JDIDw/ip/34.86.7.99/id/4b8wy7hh9LY.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANsC8BTBt6G6HKKkMMZSAvKZcQPqJsfaVKR9SPEIdmMqAiAUEF0aq-TQyJkCHkMEmcR7WtdY5n0fg0Sdb18dH9Jzew%3D%3D
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1,Tele1 HD
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
