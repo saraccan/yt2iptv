@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Halk TV
+#EXTINF:-1, Halk TV
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1,Tele 1
+#EXTINF:-1, Tele 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:-1,Yol TV
+#EXTINF:-1, Yol TV
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1, KRT TV
 https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1, Sözcü TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", Sözcü TV
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
