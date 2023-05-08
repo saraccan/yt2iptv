@@ -5,5 +5,5 @@ https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1,Yol TV
 https://stream.yol.tv:9443/medialive/yol.m3u8
-#EXTINF:-1, KRT
-https://cdn11.alfastreamtv.com/krttv.m3u8?tkn=X5XEfFOwUlmkw7uqxBlBSQ&tms=1683586933&hst=www.canlitv.me&ip=2a04:ee41:6:b111:91bc:4386:316e:e5f2
+#EXTINF:-1, KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
